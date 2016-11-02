@@ -1,5 +1,7 @@
 # opacplot2
 
+**NOTE**: This is not the newest version of `opacplot2`. Please visit the Flash Center's version [here](https://github.com/flash-center/opacplot2).
+
 [![Build Status](https://travis-ci.org/jtlaune/opacplot2.svg?branch=master)](https://travis-ci.org/jtlaune/opacplot2)
 
 Python package for manipulating Equation of State (EoS) and Opacity data.
